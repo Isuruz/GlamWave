@@ -56,7 +56,7 @@
                         <a class="nav-link text-uppercase text-dark" href="#special">specials</a>
                     </li>
                     <li class="nav-item px-2 py-2">
-                        <a class="nav-link text-uppercase text-dark" href="#blogs">blogs</a>
+                        <a class="nav-link text-uppercase text-dark" href="#blogs">vendors</a>
                     </li>
                     <li class="nav-item px-2 py-2">
                         <a class="nav-link text-uppercase text-dark" href="#about">about us</a>
@@ -446,7 +446,7 @@
     <section id="blogs" class="py-5">
         <div class="container">
             <div class="title text-center py-5">
-                <h2 class="position-relative d-inline-block">Our Latest Blog</h2>
+                <h2 class="position-relative d-inline-block">Our Vendors</h2>
             </div>
 
             <div class="row g-3">
@@ -462,7 +462,7 @@
                                 <span class="fw-bold">Author: </span>John Doe
                             </small>
                         </p>
-                        <a href="#" class="btn">Read More</a>
+                        
                     </div>
                 </div>
 
@@ -478,7 +478,7 @@
                                 <span class="fw-bold">Author: </span>John Doe
                             </small>
                         </p>
-                        <a href="#" class="btn">Read More</a>
+                        
                     </div>
                 </div>
 
@@ -494,7 +494,7 @@
                                 <span class="fw-bold">Author: </span>John Doe
                             </small>
                         </p>
-                        <a href="#" class="btn">Read More</a>
+                        
                     </div>
                 </div>
             </div>
