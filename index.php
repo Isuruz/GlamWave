@@ -35,9 +35,7 @@
                     <i class="fa fa-user"></i>
                 </button>
 
-                <button type="button" class="btn position-relative">
-                    <i class="fa fa-search"></i>
-                </button>
+                
             </div>
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
@@ -69,7 +67,6 @@
         </div>
     </nav>
     <!-- end of navbar -->
-
 
 
     <!-- Home -->
@@ -188,8 +185,8 @@
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                             </div>
-                            <p class="text-capitalize my-1">gray shirt</p>
-                            <span class="fw-bold">Rs. 4500.00</span>
+                            <p class="text-capitalize my-1">Glam Glitter Shirt</p>
+                            <span class="fw-bold">Rs. 2500.00</span>
                             <br>
                             <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                         </div>
@@ -211,8 +208,8 @@
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                             </div>
-                            <p class="text-capitalize my-1">gray shirt</p>
-                            <span class="fw-bold">Rs. 7500.00</span>
+                            <p class="text-capitalize my-1">Glam Denim Jeans</p>
+                            <span class="fw-bold">Rs. 7000.00</span>
                             <br>
                             <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                         </div>
@@ -233,8 +230,8 @@
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                             </div>
-                            <p class="text-capitalize my-1">gray shirt</p>
-                            <span class="fw-bold">Rs. 3000.00</span>
+                            <p class="text-capitalize my-1">Glam Pink Mini Shirt</p>
+                            <span class="fw-bold">Rs. 2000.00</span>
                             <br>
                             <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                         </div>
@@ -255,7 +252,7 @@
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                             </div>
-                            <p class="text-capitalize my-1">gray shirt</p>
+                            <p class="text-capitalize my-1">Glam Sky Mini Shirt</p>
                             <span class="fw-bold">Rs. 2500.00</span>
                             <br>
                             <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
@@ -277,8 +274,8 @@
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                             </div>
-                            <p class="text-capitalize my-1">gray shirt</p>
-                            <span class="fw-bold">Rs. 2000.00</span>
+                            <p class="text-capitalize my-1">Glam Sleeve Shirt</p>
+                            <span class="fw-bold">Rs. 4000.00</span>
                             <br>
                             <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                         </div>
@@ -299,8 +296,8 @@
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                             </div>
-                            <p class="text-capitalize my-1">gray shirt</p>
-                            <span class="fw-bold">Rs. 5000.00</span>
+                            <p class="text-capitalize my-1">Glam Black Shirt</p>
+                            <span class="fw-bold">Rs. 2000.00</span>
                             <br>
                             <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                         </div>
@@ -321,7 +318,7 @@
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                             </div>
-                            <p class="text-capitalize my-1">gray shirt</p>
+                            <p class="text-capitalize my-1">Glam Magic Blue</p>
                             <span class="fw-bold">Rs. 4200.00</span>
                             <br>
                             <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
@@ -343,7 +340,7 @@
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                                 <span class="text-primary"><i class="fas fa-star"></i></span>
                             </div>
-                            <p class="text-capitalize my-1">gray shirt</p>
+                            <p class="text-capitalize my-1">Glam Dark Sleeve</p>
                             <span class="fw-bold">Rs. 3700.00</span>
                             <br>
                             <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
@@ -373,8 +370,8 @@
                         </span>
                     </div>
                     <div class="text-center">
-                        <p class="text-capitalize mt-3 mb-1">gray shirt</p>
-                        <span class="fw-bold d-block">$ 45.50</span>
+                        <p class="text-capitalize mt-3 mb-1">Glam White Sleeve & Brown Pants</p>
+                        <span class="fw-bold d-block">Rs. 15500.00</span>
                         <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                     </div>
                 </div>
@@ -388,8 +385,8 @@
                         </span>
                     </div>
                     <div class="text-center">
-                        <p class="text-capitalize mt-3 mb-1">gray shirt</p>
-                        <span class="fw-bold d-block">$ 45.50</span>
+                        <p class="text-capitalize mt-3 mb-1">Glam Maroon Kurta</p>
+                        <span class="fw-bold d-block">Rs. 7000.00</span>
                         <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                     </div>
                 </div>
@@ -403,8 +400,8 @@
                         </span>
                     </div>
                     <div class="text-center">
-                        <p class="text-capitalize mt-3 mb-1">gray shirt</p>
-                        <span class="fw-bold d-block">$ 45.50</span>
+                        <p class="text-capitalize mt-3 mb-1">Glam Denim Sleeve & Grassy Pants</p>
+                        <span class="fw-bold d-block">Rs. 13000.00</span>
                         <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                     </div>
                 </div>
@@ -418,8 +415,8 @@
                         </span>
                     </div>
                     <div class="text-center">
-                        <p class="text-capitalize mt-3 mb-1">gray shirt</p>
-                        <span class="fw-bold d-block">$ 45.50</span>
+                        <p class="text-capitalize mt-3 mb-1">Glam Sripped Kurtis</p>
+                        <span class="fw-bold d-block">Rs. 4500.00</span>
                         <a href="#" class="btn btn-primary mt-3">Add to Cart</a>
                     </div>
                 </div>
@@ -435,7 +432,7 @@
             <div
                 class="row d-flex align-items-center justify-content-center text-center justify-content-lg-start text-lg-start">
                 <div class="offers-content">
-                    <span class="text-white">Discount Up To 40%</span>
+                    <span class="text-white">Discount Up To 25%</span>
                     <h2 class="mt-2 mb-4 text-white">Grand Sale Offer!</h2>
                     
                 </div>
@@ -455,48 +452,30 @@
                 <div class="card border-0 col-md-6 col-lg-4 bg-transparent my-3">
                     <img src="images/blog_1.jpg" alt="">
                     <div class="card-body px-0">
-                        <h4 class="card-title">Lorem ipsum, dolor sit amet consectetur adipisicing</h4>
-                        <p class="card-text mt-3 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            Eveniet aspernatur repudiandae nostrum dolorem molestias odio. Sit fugit adipisci omnis quia
-                            itaque ratione iusto sapiente reiciendis, numquam officiis aliquid ipsam fuga.</p>
-                        <p class="card-text">
-                            <small class="text-muted">
-                                <span class="fw-bold">Author: </span>John Doe
-                            </small>
-                        </p>
-                        
+                        <center> <h4 class="card-title">Elevate Your Style with Seamless Online Shopping!</h4> </center> 
+                        <p class="card-text mt-3 text-muted">Glamwave's online store offers a sleek, user-friendly interface for a seamless shopping experience. 
+                            Explore curated collections with detailed product descriptions and a virtual fitting room feature. Our secure payment facilities accept various methods, ensuring a hassle-free checkout. 
+                            Your satisfaction is our priority—shop confidently for the latest trends at Glamwave Sri Lanka!</p>                       
                     </div>
                 </div>
 
                 <div class="card border-0 col-md-6 col-lg-4 bg-transparent my-3">
                     <img src="images/blog_2.jpg" alt="">
                     <div class="card-body px-0">
-                        <h4 class="card-title">Lorem ipsum, dolor sit amet consectetur adipisicing</h4>
-                        <p class="card-text mt-3 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            Eveniet aspernatur repudiandae nostrum dolorem molestias odio. Sit fugit adipisci omnis quia
-                            itaque ratione iusto sapiente reiciendis, numquam officiis aliquid ipsam fuga.</p>
-                        <p class="card-text">
-                            <small class="text-muted">
-                                <span class="fw-bold">Author: </span>John Doe
-                            </small>
-                        </p>
-                        
+                    <center> <h4 class="card-title">A Store Full of Modern Elegance and Luxurious Style</h4> </center> 
+                        <p class="card-text mt-3 text-muted">Glamwave's physical store is a chic haven, exuding modern elegance with carefully curated displays. 
+                            Our friendly staff ensures a personalized shopping experience, while luxurious fabrics and trendy pieces await in stylish fitting rooms. 
+                            Join us for exclusive events, fashion shows, and style sessions—where fashion meets experience at Glamwave!</p>
                     </div>
                 </div>
 
                 <div class="card border-0 col-md-6 col-lg-4 bg-transparent my-3">
                     <img src="images/blog_3.jpg" alt="">
                     <div class="card-body px-0">
-                        <h4 class="card-title">Lorem ipsum, dolor sit amet consectetur adipisicing</h4>
-                        <p class="card-text mt-3 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            Eveniet aspernatur repudiandae nostrum dolorem molestias odio. Sit fugit adipisci omnis quia
-                            itaque ratione iusto sapiente reiciendis, numquam officiis aliquid ipsam fuga.</p>
-                        <p class="card-text">
-                            <small class="text-muted">
-                                <span class="fw-bold">Author: </span>John Doe
-                            </small>
-                        </p>
-                        
+                    <center> <h4 class="card-title">Where Fashion Meets Fabulous Assistance</h4> </center> 
+                        <p class="card-text mt-3 text-muted">Glamwave's customer support is your stylish companion on this fashion journey. 
+                            Expect prompt and friendly assistance from our team of dedicated style enthusiasts. Whether you have questions or need advice, we're here to add a touch of glamour to your experience. 
+                            Contact us via chat, email, or phone for a seamless and fabulous customer service experience.</p>
                     </div>
                 </div>
             </div>
@@ -512,11 +491,12 @@
                     <div class="title pt-3 pb-5">
                         <h2 class="position-relative d-inline-block ms-4">About Us</h2>
                     </div>
-                    <p class="lead text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, ipsam.
+                    <p class="lead text-muted">Welcome to Glamwave Sri Lanka, your ultimate destination for all things fabulous in fashion! 
                     </p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem fuga blanditiis, modi
-                        exercitationem quae quam eveniet! Minus labore voluptatibus corporis recusandae accusantium
-                        velit, nemo, nobis, nulla ullam pariatur totam quos.</p>
+                    <p>At Glamwave, we're not just selling clothes; we're curating a lifestyle. Picture yourself in the latest trends, turning heads and making a statement wherever you go.
+
+
+                    Step into our virtual boutique, where you'll find a stunning collection of chic and trendy outfits carefully selected to elevate your style game. From casual cool to red carpet glam, we've got the perfect ensemble for every occasion.</p>
                 </div>
                 <div class="col-lg-6 order-lg-0">
                     <img src="images/about_us.jpg" alt="" class="img-fluid">
@@ -535,11 +515,11 @@
         <div class="container">
             <div class="d-flex flex-column align-items-center justify-content-center">
                 <div class="title text-center pt-3 pb-5">
-                    <h2 class="position-relative d-inline-block ms-4">Newsletter Subscription</h2>
+                    <h2 class="position-relative d-inline-block ms-4">Glamwave Newsletter Subscription</h2>
                 </div>
 
-                <p class="text-center text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus rem
-                    officia accusantium maiores quisquam dolorum?</p>
+                <p class="text-center text-muted">Glamwave's weekly newsletter delivers the latest trends and exclusive offers straight to your inbox, keeping you effortlessly chic and in the fashion loop.
+                     Subscribe now for your VIP pass to style inspiration! 💌👗✨</p>
                 <div class="input-group mb-3 mt-3">
                     <input type="text" class="form-control" placeholder="Enter Your Email ...">
                     <button class="btn btn-primary" type="submit">Subscribe</button>
@@ -554,9 +534,9 @@
         <div class="container">
             <div class="row text-white g-4">
                 <div class="col-md-6 col-lg-3">
-                    <a class="text-uppercase text-decoration-none brand text-white" href="index.php">Attire</a>
-                    <p class="text-white text-muted mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nostrum mollitia quisquam veniam odit cupiditate, ullam aut voluptas velit dolor ipsam?</p>
+                    <a class="text-uppercase text-decoration-none brand text-white" href="index.php">Glamwave</a>
+                    <p class="text-white text-muted mt-3">we believe that confidence is the best accessory, we offer a hassle-free shopping experience with easy returns and secure checkout. 
+                        Glam up your wardrobe, and let your inner fashionista shine with Glamwave—where style meets attitude!</p>
                 </div>
 
                 <div class="col-md-6 col-lg-3">
@@ -600,7 +580,7 @@
                             <i class="fas fa-envelope"></i>
                         </span>
                         <span class="fw-light">
-                            attire.support@gmail.com
+                            Glamwave.support@gmail.com
                         </span>
                     </div>
                     <div class="d-flex justify-content-start align-items-start my-2 text-muted">
@@ -608,7 +588,7 @@
                             <i class="fas fa-phone-alt"></i>
                         </span>
                         <span class="fw-light">
-                            +9786 6776 236
+                            +9476 0000 000
                         </span>
                     </div>
                 </div>
