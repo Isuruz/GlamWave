@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
         integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" href="images/icon.png">
     <!-- bootstrap css -->
     <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.min.css">
     <!-- custom css -->
@@ -29,7 +30,7 @@
             <div class="order-lg-2 nav-btns">
                 <button type="button" class="btn position-relative">
                     <i class="fa fa-shopping-cart"></i>
-                    <span class="position-absolute top-0 start-100 translate-middle badge bg-primary">5</span>
+                    
                 </button>
                 <button type="button" class="btn position-relative" id="form-open">
                     <i class="fa fa-user"></i>
@@ -54,7 +55,7 @@
                         <a class="nav-link text-uppercase text-dark" href="#special">specials</a>
                     </li>
                     <li class="nav-item px-2 py-2">
-                        <a class="nav-link text-uppercase text-dark" href="#blogs">vendors</a>
+                        <a class="nav-link text-uppercase text-dark" href="#blogs">services</a>
                     </li>
                     <li class="nav-item px-2 py-2">
                         <a class="nav-link text-uppercase text-dark" href="#about">about us</a>
@@ -219,8 +220,7 @@
                     <div class="col-md-6 col-lg-4 col-xl-3 p-2 new">
                         <div class="collection-img position-relative">
                             <img src="images/c_polo-shirt.png" class="w-100">
-                            <span
-                                class="position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
+                            
                         </div>
                         <div class="text-center">
                             <div class="rating mt-3">
@@ -263,8 +263,7 @@
                     <div class="col-md-6 col-lg-4 col-xl-3 p-2 feat">
                         <div class="collection-img position-relative">
                             <img src="images/c_t-shirt_men.png" class="w-100">
-                            <span
-                                class="position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
+                            
                         </div>
                         <div class="text-center">
                             <div class="rating mt-3">
@@ -307,8 +306,7 @@
                     <div class="col-md-6 col-lg-4 col-xl-3 p-2 best">
                         <div class="collection-img position-relative">
                             <img src="images/c_undershirt.png" class="w-100">
-                            <span
-                                class="position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
+                           
                         </div>
                         <div class="text-center">
                             <div class="rating mt-3">
@@ -329,8 +327,7 @@
                     <div class="col-md-6 col-lg-4 col-xl-3 p-2 feat">
                         <div class="collection-img position-relative">
                             <img src="images/c_western-shirt.png" class="w-100">
-                            <span
-                                class="position-absolute bg-primary text-white d-flex align-items-center justify-content-center">sale</span>
+                            
                         </div>
                         <div class="text-center">
                             <div class="rating mt-3">
@@ -445,7 +442,7 @@
     <section id="blogs" class="py-5">
         <div class="container">
             <div class="title text-center py-5">
-                <h2 class="position-relative d-inline-block">Our Vendors</h2>
+                <h2 class="position-relative d-inline-block">Our Services</h2>
             </div>
 
             <div class="row g-3">
@@ -460,7 +457,7 @@
                 </div>
 
                 <div class="card border-0 col-md-6 col-lg-4 bg-transparent my-3">
-                    <img src="images/blog_2.jpg" alt="">
+                    <img src="images/store.jpg" alt="">
                     <div class="card-body px-0">
                     <center> <h4 class="card-title">A Store Full of Modern Elegance and Luxurious Style</h4> </center> 
                         <p class="card-text mt-3 text-muted">Glamwave's physical store is a chic haven, exuding modern elegance with carefully curated displays. 
@@ -470,7 +467,7 @@
                 </div>
 
                 <div class="card border-0 col-md-6 col-lg-4 bg-transparent my-3">
-                    <img src="images/blog_3.jpg" alt="">
+                    <img src="images/lady.jpg" alt="">
                     <div class="card-body px-0">
                     <center> <h4 class="card-title">Where Fashion Meets Fabulous Assistance</h4> </center> 
                         <p class="card-text mt-3 text-muted">Glamwave's customer support is your stylish companion on this fashion journey. 
@@ -535,7 +532,7 @@
             <div class="row text-white g-4">
                 <div class="col-md-6 col-lg-3">
                     <a class="text-uppercase text-decoration-none brand text-white" href="index.php">Glamwave</a>
-                    <p class="text-white text-muted mt-3">we believe that confidence is the best accessory, we offer a hassle-free shopping experience with easy returns and secure checkout. 
+                    <p class="text-white text-muted mt-3">we believe that confidence is the best accessory, we offer a hassle-free shopping experience with easy returns and secure checkout.
                         Glam up your wardrobe, and let your inner fashionista shine with Glamwave—where style meets attitude!</p>
                 </div>
 
@@ -543,22 +540,22 @@
                     <h5 class="fw-light">Links</h5>
                     <ul class="list-unstyled">
                         <li class="my-3">
-                            <a href="#" class="text-white text-decoration-none text-muted">
+                            <a href="#header" class="text-white text-decoration-none text-muted">
                                 <i class="fas fa-chevron-right me-1"></i> Home
                             </a>
                         </li>
                         <li class="my-3">
-                            <a href="#" class="text-white text-decoration-none text-muted">
+                            <a href="#collection" class="text-white text-decoration-none text-muted">
                                 <i class="fas fa-chevron-right me-1"></i> Collection
                             </a>
                         </li>
                         <li class="my-3">
-                            <a href="#" class="text-white text-decoration-none text-muted">
-                                <i class="fas fa-chevron-right me-1"></i> Blogs
+                            <a href="#blogs" class="text-white text-decoration-none text-muted">
+                                <i class="fas fa-chevron-right me-1"></i> Services
                             </a>
                         </li>
                         <li class="my-3">
-                            <a href="#" class="text-white text-decoration-none text-muted">
+                            <a href="#about" class="text-white text-decoration-none text-muted">
                                 <i class="fas fa-chevron-right me-1"></i> About Us
                             </a>
                         </li>
@@ -572,7 +569,7 @@
                             <i class="fas fa-map-marked-alt"></i>
                         </span>
                         <span class="fw-light">
-                            Albert Street, New York, AS 756, United States of America
+                            16/4, Kanagaraj Street, Colombo 06, Sri Lanka.
                         </span>
                     </div>
                     <div class="d-flex justify-content-start align-items-start my-2 text-muted">
@@ -580,7 +577,7 @@
                             <i class="fas fa-envelope"></i>
                         </span>
                         <span class="fw-light">
-                            Glamwave.support@gmail.com
+                            glamwave.support@gmail.com
                         </span>
                     </div>
                     <div class="d-flex justify-content-start align-items-start my-2 text-muted">
