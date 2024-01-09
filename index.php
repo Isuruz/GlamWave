@@ -533,7 +533,7 @@
                 <div class="col-md-6 col-lg-3">
                     <a class="text-uppercase text-decoration-none brand text-white" href="index.php">Glamwave</a>
                     <p class="text-white text-muted mt-3">we believe that confidence is the best accessory, we offer a hassle-free shopping experience with easy returns and secure checkout.
-                        Glam up your wardrobe, and let your inner fashionista shine with Glamwave—where style meets attitude!</p>
+                        Glam up your wardrobe, and let your inner fashionista shine with Glamwave. —Designed by Isuru Ranasinghe (22UG3-0787) </p>
                 </div>
 
                 <div class="col-md-6 col-lg-3">
